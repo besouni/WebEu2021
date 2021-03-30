@@ -1,0 +1,28 @@
+body{
+   background-color: bisque;
+   background-image: url(iconimage.jfif);
+   background-repeat: no-repeat;
+   background-position: left top;
+   background-attachment: fixed;
+}
+
+div{
+   border: solid black 3px;
+   height: 500px;
+   width: 60%;
+   margin: 20px auto;
+   background-color: aqua;
+}
+
+.div1{
+   background-image: url(iconimage.jfif);
+   /* background-repeat:repeat-x;
+   background-position: bottom; */
+   background-repeat: no-repeat;
+   /* background-size: 700px 300px; */
+   background-size: cover;
+}
+
+.div2{
+   background-image: url(largeimage.jpg);
+}
