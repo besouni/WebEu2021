@@ -1,0 +1,24 @@
+table{
+   width: 700px;
+   height: 400px;
+   border: solid black 10px;
+   margin: auto;
+}
+
+td, th{
+   border: solid red 5px;
+}
+
+tfoot {
+   background-color: antiquewhite;
+   text-align: center;
+   font-size: 30px;
+}
+
+tfoot td{
+   background-color: green;
+}
+
+.table2{
+   border-collapse: collapse;
+}
