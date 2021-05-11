@@ -1,0 +1,25 @@
+form, div{
+   width: 400px;
+   border: solid 2px gray;
+   margin: 10px auto;
+   padding: 20px;
+}
+
+.inp1{
+   padding: 10px;
+   font-weight: bold;
+   font-style:italic;
+   border: none;
+   outline: none;
+   border-bottom: solid 2px gray;
+}
+
+.inp1:focus{
+   background-color: bisque;
+}
+
+.but1{
+   padding: 10px;
+   cursor: pointer;
+   border-top-left-radius: 50%;
+}
